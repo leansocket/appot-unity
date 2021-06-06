@@ -1,0 +1,15 @@
+{
+  "name": "appot-unity",
+  "version": "1.0.0",
+  "displayName": "Appot",
+  "description": "Appot SDK for Unity.",
+  "scripts": {
+
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+
+  }
+}
