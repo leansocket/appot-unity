@@ -1,3 +1,0 @@
-## ProjectX
-
-Unity ProjectX Framework
